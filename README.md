@@ -1,7 +1,10 @@
-Usac-Efpem
+Usac-Efpem.
 Lic. en la Enseñanza de la Informática y la Computación.
-Curso: Didáctica de la programación
+Curso: Didáctica de la programación.
+<div align="center">
+
 # GIT Y GITHUB
+</div>
 Agosto 2023
 | Nombre | Crisol Esmeralda Garcia Lemus |
 |--------------|--------------|
