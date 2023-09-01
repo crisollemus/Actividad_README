@@ -6,9 +6,10 @@ Curso: Didáctica de la programación
 
 
 
-<h1 align="center">Título centrado</h1>
+<h1 align="center">GIT y GitHub</h1>
+Este es un <u>texto subrayado</u> en Markdown.
+<h1 align="center">Agosto 2023</h1>
 
-Agosto 2023
 
 | Nombre | Crisol Esmeralda Garcia Lemus |
 |--------------|--------------|
