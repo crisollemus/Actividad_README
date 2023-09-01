@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+p{
+    text-align: justify;
+}
+
+
+.img_git {
+width: 300px;
+height: 200px;
+float: right ;
+}
+
+.img_hub {
+    width: 200px;
+    height: 150px;
+    float: right;
+    }
+
+    
+h1{
+    text-indent: 50px;
+      text-align: center;
+      font-family:'Times New Roman', Times, serif;
+      font-size:xx-large;
+      color:rgb(138, 130, 223);
+      font-weight: bolder;
+     
+      text-shadow: -1px 0 rgb(33, 20, 174), 0 1px rgb(33, 20, 174), 1px 0 rgb(33, 20, 174), 0 -1px rgb(33, 20, 174);
+  }
+  
+  h2{
+    text-indent: 30px;
+      text-align: justify;
+      font-family:'Times New Roman', Times, serif;
+      font-size:x-large;
+      color:cadetblue;
+      font-weight: bolder;
+      text-decoration:underline;
+      text-shadow: -1px 0 rgb(33, 20, 174), 0 1px rgb(33, 20, 174), 1px 0 rgb(33, 20, 174), 0 -1px rgb(33, 20, 174); 
+  
+  }
