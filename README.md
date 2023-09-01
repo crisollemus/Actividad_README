@@ -6,7 +6,7 @@ Curso: Didáctica de la programación
 
 
 # GIT Y GITHUB
-<p align="center"> # Título centrado </p> 
+<p align="center"> </p> 
 Agosto 2023
 
 | Nombre | Crisol Esmeralda Garcia Lemus |
