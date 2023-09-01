@@ -3,7 +3,7 @@ Lic. en la Enseñanza de la Informática y la Computación.
 Curso: Didáctica de la programación.
 
 
-<center> GIT Y GITHUB
+<center> #GIT Y GITHUB
 Agosto 2023
 </center>
 | Nombre | Crisol Esmeralda Garcia Lemus |
